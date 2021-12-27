@@ -91,7 +91,7 @@ Design API to support basic CRUD functionality for a twitter like system.
 
 ### Database table design
 
- imgggggg
+![imgggggg](images/Untitled%20%281%29.png
 
   ### Tech stack used
   
