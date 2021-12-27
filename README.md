@@ -91,7 +91,7 @@ Design API to support basic CRUD functionality for a twitter like system.
 
 ### Database table design
 
-![imgggggg](Untitled (1).png)
+![imgggggg](https://github.com/banty306/twitterBackend/blob/436c5a794833a18520c383d5c371cb57a8c85903/images/Untitled%20(1).png)
 
   ### Tech stack used
   
