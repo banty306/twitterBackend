@@ -1,5 +1,3 @@
-# twitterBackend
-
 
 
 # Backend API Design of Twitter   
@@ -95,15 +93,21 @@ Design API to support basic CRUD functionality for a twitter like system.
 
  imgggggg
 
+  ### Tech stack used
+  
 
+ - Flask (Python)
+ - PostgreSQL
+ - 
 ### Functionality 
-~~login~~
-~~add tweet~~
-~~follow~~
-retweet 
-edit details
-timeline: this is also a table in db which need to be implemented so that we can improve the speed of the system.
+ - [ ] login
+ - [ ] add tweet
+ - [ ] follow
+ - [ ] retweet
+ - [ ] edit details
+ - [ ] timeline : this is also a table in db which need to be implemented so that we can improve the speed of the system.
 
+## Further Improvement 
 ### Another approach for the dashboard or main page  
 ```  
 	@app.route('/dashboard',methods=['GET','POST'])
@@ -128,3 +132,8 @@ timeline: this is also a table in db which need to be implemented so that we can
 	.paginate(page=page,per_page=5)
 	return render_template('dashboard.html',name = current_user.username,tweet = user_tweet, timeline=timeline) 
 ```  
+  
+
+
+
+
