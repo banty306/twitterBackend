@@ -100,9 +100,9 @@ Design API to support basic CRUD functionality for a twitter like system.
  - PostgreSQL
  - 
 ### Functionality 
- - [ ] login
- - [ ] add tweet
- - [ ] follow
+ - [x] login
+ - [x] add tweet
+ - [x] follow
  - [ ] retweet
  - [ ] edit details
  - [ ] timeline : this is also a table in db which need to be implemented so that we can improve the speed of the system.
